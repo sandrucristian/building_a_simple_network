@@ -11,8 +11,11 @@ In this network there are the following computers that have been configured with
 host name               ip		subnet mask
 
 PC-Robert	Eth	192.168.1.10	255.255.255.0
+
 PC-Camille	Eth	192.168.1.11	255.255.255.0
+
 PC-Renaud	Eth	192.168.1.12	255.255.255.0
+
 
 This network is connected to the Internet through the server "Server-DNS-254" which has the IP address 192.168.1.254
 
